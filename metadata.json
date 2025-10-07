@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Poster Generator",
+  "description": "An interactive application that generates high-quality, platform-optimized social media posters based on user input for content, style, and target platform.",
+  "requestFramePermissions": []
+}
